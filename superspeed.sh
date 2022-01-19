@@ -109,9 +109,10 @@ speed_test(){
 
 preinfo() {
 	echo "———————————————————SuperSpeed 全面测速版——————————————————"
-	echo "       bash <(curl -Lso- https://git.io/superspeed)"
+	echo "       bash <(curl -Lso- http://down.wangchao.info/sh/superspeed/superspeed.sh)"
 	echo "       全部节点列表:  https://git.io/superspeedList"
-	echo "       节点更新: 2020/04/09  | 脚本更新: 2020/04/09"
+	echo "       节点更新: 2020/04/09  | 脚本更新: 2022/01/19"
+	echo "       cli失效下载地址已更新  王超博客WangChao.info"
 	echo "——————————————————————————————————————————————————————————"
 }
 
